@@ -1,0 +1,202 @@
+body{
+	width: 100%;
+	overflow-x: hidden;
+}
+
+form{
+	height: 76vh;
+}
+.container{
+	width: 100%;
+	margin: 0px;
+	padding: 0px;
+}
+.well{
+	background: #bcbcbc;
+}
+/*-----------------------index---------------------*/
+.carousel{
+	width: 100%;
+	height: 100vh;
+}
+.carousel-inner{
+	height: 100%
+}
+.title_index{
+	font-size: 50pt;
+	font-weight: bolder;
+	text-align: center;
+}
+
+/*------------------------jumbotron----------------*/
+.index-jumbotron{
+	height: 200px;
+	top: 20px;
+	right: 0px;
+	background: #ABABA9;
+	padding: 0px;
+	margin-bottom: 20px;
+	border-radius: 20px;
+}
+.index-jumbotron:hover{
+	border-radius: 0px;
+}
+.img-jumbotron{
+	height: 180px;
+	width: 180px;
+	margin-left: 10px;
+	margin-top: 10px;
+	position: absolute;
+}
+.h2-jumbotron{
+	font-weight: bold;
+	font-size: 25pt;
+	margin-left: 210px;
+	color: #FF891E;
+	text-align: center;
+}
+.index-jumbotron:hover .h2-jumbotron{
+	font-size: 30pt;
+}
+.p-jumbotron{
+	font-size: 16pt;
+	margin-left: 210px;
+}
+
+/*-----------------------fil actualité-------------*/
+.iframe{
+	margin-top: 25px;
+}
+
+/*-----------------------header--------------------*/
+.navbar{
+	height: 90px;
+	padding-top: 20px;
+	-webkit-transition: all 0.8s ease-out;
+    -moz-transition: all 0.8s ease-out;
+    -o-transition: all 0.8s ease-out;
+    -ms-transition: all 0.8s ease-out;
+    transition: all 0.8s ease-out;
+    background: transparent;
+}
+.navbar-txt{
+	font-size: 35pt;
+	color: #FF891E;
+	font-weight: bolder;
+	text-align: center;
+}
+i{
+	color: orange;
+}
+.navbar.scrolled {
+    background: rgb(0,0,0); /* IE */
+    background: rgba(0, 0, 0, 0.9); /* NON-IE */
+}
+.img-logo{
+	margin-top: -15px;
+}
+
+/*---------------------galerie---------------------*/
+.img-container{
+	width: 210px;
+	height: 210px;
+}
+.galerie{
+	margin-top: 90px;
+}
+.photocom{
+	width: 200px;
+	height: 200px;
+}
+.h2_galerie{
+	font-weight: bold;
+	font-size: 25pt;
+}
+
+.navbar-text{
+  font-size: 14pt;
+}
+img{
+
+  float: left;
+}
+.jumbotron{
+  top: 20px;
+  right: 60px;
+  padding: 7px!important;
+}
+.title_entreprises{
+  font-size: 40pt;
+  font-weight: bolder;
+}
+.btn_more{
+  position: absolute;
+  bottom:  12px;
+  right: 12px;
+}
+h2 {
+  text-align:center ;
+}
+.modal{
+	z-index: 9999; 
+}
+
+/*-------------------footer------------------------*/
+footer{
+	background: black;
+	height: 80px;
+	bottom: 0px;
+	margin-top: 20px;
+	padding-top: 25px;
+
+}
+/*------------------Contact------------------------*/
+.h2-form{
+	font-size: 27pt;
+	font-weight: bold;
+	color: #FF891E;
+}
+label{
+	width: 200px;
+	font-size: 16pt;
+}
+input{
+	width: 300px;
+	height: 30px;
+	border-radius: 6px;
+}
+textarea{
+	width: 300px;
+	height: 100px;
+	border-radius: 6px;
+}
+#monForm{
+	width:500px;
+	height: auto;
+	margin: auto;
+	padding: 20px;
+	background: #ABABA9;
+	border-radius: 10px;
+}
+.container{
+	margin-top: 90px;
+	text-align: center;
+}
+.button{
+	width: 300px;
+	height: 30px;
+	border-radius: 6px;
+	background: #FF891E;
+	margin: auto;
+}
+.submit-button{
+	width: 300px;
+	height: 30px;
+	border-radius: 6px;
+	background: #FF891E;
+}
+.mention {
+	color: #FF891E;
+	margin-left: 50px;
+
+}
