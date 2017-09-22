@@ -1,7 +1,7 @@
 <div class="navbar navbar-fixed-top">
   <div class="container-fluid">
     <img class="col-xs-1 col-sm-1 img-logo" src="Photos/favicon1.png" alt="">
-    <div class="col-xs-offset-3 col-xs-4 col-sm-offset-3 col-sm-4 navbar-txt">$</div>
+    <div class="col-xs-offset-3 col-xs-4 col-sm-offset-3 col-sm-4 navbar-txt">The Doge Club</div>
     <div class="menu-c">
       <div class="mobile-nav-button">
         <div class="mobile-nav-button__line"></div>
